@@ -1,0 +1,13 @@
+C:\Users\HP Pavillion\source\repos\bubleshoot\bubleshoot\bin\Debug\netcoreapp3.1\bubleshoot.exe
+C:\Users\HP Pavillion\source\repos\bubleshoot\bubleshoot\bin\Debug\netcoreapp3.1\bubleshoot.deps.json
+C:\Users\HP Pavillion\source\repos\bubleshoot\bubleshoot\bin\Debug\netcoreapp3.1\bubleshoot.runtimeconfig.json
+C:\Users\HP Pavillion\source\repos\bubleshoot\bubleshoot\bin\Debug\netcoreapp3.1\bubleshoot.runtimeconfig.dev.json
+C:\Users\HP Pavillion\source\repos\bubleshoot\bubleshoot\bin\Debug\netcoreapp3.1\bubleshoot.dll
+C:\Users\HP Pavillion\source\repos\bubleshoot\bubleshoot\bin\Debug\netcoreapp3.1\bubleshoot.pdb
+C:\Users\HP Pavillion\source\repos\bubleshoot\bubleshoot\obj\Debug\netcoreapp3.1\bubleshoot.csproj.AssemblyReference.cache
+C:\Users\HP Pavillion\source\repos\bubleshoot\bubleshoot\obj\Debug\netcoreapp3.1\bubleshoot.AssemblyInfoInputs.cache
+C:\Users\HP Pavillion\source\repos\bubleshoot\bubleshoot\obj\Debug\netcoreapp3.1\bubleshoot.AssemblyInfo.cs
+C:\Users\HP Pavillion\source\repos\bubleshoot\bubleshoot\obj\Debug\netcoreapp3.1\bubleshoot.csproj.CoreCompileInputs.cache
+C:\Users\HP Pavillion\source\repos\bubleshoot\bubleshoot\obj\Debug\netcoreapp3.1\bubleshoot.dll
+C:\Users\HP Pavillion\source\repos\bubleshoot\bubleshoot\obj\Debug\netcoreapp3.1\bubleshoot.pdb
+C:\Users\HP Pavillion\source\repos\bubleshoot\bubleshoot\obj\Debug\netcoreapp3.1\bubleshoot.genruntimeconfig.cache
